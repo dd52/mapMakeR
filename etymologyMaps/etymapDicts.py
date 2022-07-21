@@ -12,7 +12,19 @@ colorNames = {
     'pink': '#fccde5',
     'grey': '#d9d9d9',
     'white': '#ffffff',
-    'darkgrey': '#999999'
+    'darkgrey': '#999999',
+    'black': '#000000',
+    'brown': '#a52a2a',
+    'lightblue': '#ccebc5',
+    'lightyellow': '#f5f5f5',
+    'lightpurple': '#e0ecf4',
+    'lightred': '#fdb4b4',
+    'lightorange': '#fed976',
+    'lightgreen': '#b3de69',
+    'lightpink': '#fccde5',
+    'lightgrey': '#f0f0f0',
+    'lightblack': '#000000',
+    'lightbrown': '#a52a2a'
 }
 
 # this is the list of languages and corresponding original colors in the template:

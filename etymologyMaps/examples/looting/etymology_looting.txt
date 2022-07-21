@@ -1,0 +1,7 @@
+green
+blue
+yellow
+white
+turquoise
+
+red:
